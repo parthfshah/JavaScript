@@ -1,3 +1,6 @@
+// Map, filter and reduce
+
+
 // // 1 - filtering the user name with length less than 10
 
 // const usernames = ['mark','carrie98','staceysmom1978', 'q29832128238983', 'carrieg8','MoanaFan']
